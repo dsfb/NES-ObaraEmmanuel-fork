@@ -1,6 +1,8 @@
 #pragma once
 
 #include <stdint.h>
+#include <stddef.h>
+
 #include "biquad.h"
 
 #define SAMPLING_FREQUENCY 48000
